@@ -1,2 +1,2 @@
-# bringtech-3.0.0
-agora com o seu scanner elm327 da china voce grava um datalog real do seu carro
+# bringtech-3.0
+BringTech FT600: app Android com painel estilo FuelTech FT600 que lê dados do carro por scanner OBD2/ELM327 Bluetoo
